@@ -1,0 +1,148 @@
+Index,attribute,Name,trading_symbol,Weightage (%)
+Nifty50,NSE_EQ,Adani Enterprises Ltd,ADANIENT,0.0062
+Nifty50,NSE_EQ,Adani Ports and Special Economic Zone Ltd,ADANIPORTS,0.0098
+Nifty50,NSE_EQ,Apollo Hospitals Enterprise Ltd,APOLLOHOSP,0.0066
+Nifty Midcap Select,NSE_EQ,Ashok Leyland Ltd.,ASHOKLEY,0.0402
+SENSEX,BSE_EQ,Asian Paints Ltd,ASIANPAINT,0.0115
+Nifty50,NSE_EQ,Asian Paints Ltd,ASIANPAINT,0.009
+Nifty Midcap Select,NSE_EQ,Astral Ltd.,ASTRAL,0.0323
+BankNifty,NSE_EQ,AU Small Finance Bank Ltd.,AUBANK,0.0141
+Nifty Midcap Select,NSE_EQ,AU Small Finance Bank Ltd.,AUBANK,0.0453
+Nifty Midcap Select,NSE_EQ,Aurobindo Pharma Ltd.,AUROPHARMA,0.0416
+FINNIFTY,NSE_EQ,Axis Bank Ltd.,AXISBANK,0.0543
+SENSEX,BSE_EQ,Axis Bank Ltd.,AXISBANK,0.0338
+Nifty50,NSE_EQ,Axis Bank Ltd.,AXISBANK,0.0291
+BANKEX,BSE_EQ,Axis Bank Ltd.,AXISBANK,0.0782
+BankNifty,NSE_EQ,Axis Bank Ltd.,AXISBANK,0.0854
+Nifty50,NSE_EQ,Bajaj Auto Limited,BAJAJ-AUTO,0.0096
+FINNIFTY,NSE_EQ,Bajaj Finance,BAJFINANCE,0.0914
+SENSEX,BSE_EQ,Bajaj Finance,BAJFINANCE,0.0225
+Nifty50,NSE_EQ,Bajaj Finance,BAJFINANCE,0.0188
+FINNIFTY,NSE_EQ,Bajaj Finserv,BAJAJFINSV,0.0515
+SENSEX,BSE_EQ,Bajaj Finserv,BAJAJFINSV,0.0101
+Nifty50,NSE_EQ,Bajaj Finserv Ltd,BAJAJFINSV,0.0091
+BankNifty,NSE_EQ,Bank of Baroda,BANKBARODA,0.0319
+BANKEX,BSE_EQ,Bank of Baroda,BANKBARODA,0.0307
+Nifty50,NSE_EQ,Bharat Electronics Ltd,BEL,0.0096
+Nifty Midcap Select,NSE_EQ,Bharat Forge Ltd.,BHARATFORG,0.0496
+Nifty50,NSE_EQ,Bharat Petroleum Corporation Ltd,BPCL,0.0053
+SENSEX,BSE_EQ,Bharti Airtel Ltd,BHARTIARTL,0.0468
+Nifty50,NSE_EQ,Bharti Airtel Ltd,BHARTIARTL,0.0406
+Nifty50,NSE_EQ,Britannia Industries Ltd,BRITANNIA,0.0056
+BANKEX,BSE_EQ,Canara Bank Ltd.,CANBK,0.0234
+BankNifty,NSE_EQ,Canara Bank Ltd.,CANBK,0.0201
+FINNIFTY,NSE_EQ,Cholamandalam Investment and Finance,CHOLAFIN,0.0203
+Nifty50,NSE_EQ,Cipla Ltd,CIPLA,0.0078
+Nifty50,NSE_EQ,Coal India Ltd,COALINDIA,0.0086
+Nifty Midcap Select,NSE_EQ,Coforge Ltd.,COFORGE,0.0379
+Nifty Midcap Select,NSE_EQ,Container Corporation of India Ltd.,CONCOR,0.0367
+Nifty Midcap Select,NSE_EQ,Cummins India Ltd.,CUMMINSIND,0.0601
+Nifty50,NSE_EQ,Dr Reddy's Laboratories Ltd,DRREDDY,0.0074
+Nifty50,NSE_EQ,Eicher Motors Ltd,EICHERMOT,0.0065
+BankNifty,NSE_EQ,Federal Bank Ltd.,FEDERALBNK,0.0348
+Nifty Midcap Select,NSE_EQ,Federal Bank Ltd.,FEDERALBNK,0.0453
+Nifty Midcap Select,NSE_EQ,Godrej Properties Ltd.,GODREJPROP,0.0395
+Nifty50,NSE_EQ,Grasim Industries Ltd,GRASIM,0.0086
+SENSEX,BSE_EQ,HCL Tech,HCLTECH,0.0226
+Nifty50,NSE_EQ,HCL Technologies Ltd,HCLTECH,0.0183
+FINNIFTY,NSE_EQ,HDFC Asset Management,HDFCAMC,0.0254
+Nifty Midcap Select,NSE_EQ,HDFC Asset Management Company Ltd.,HDFCAMC,0.0486
+FINNIFTY,NSE_EQ,HDFC Bank Ltd.,HDFCBANK,0.2513
+SENSEX,BSE_EQ,HDFC Bank Ltd.,HDFCBANK,0.1453
+Nifty50,NSE_EQ,HDFC Bank Ltd.,HDFCBANK,0.1208
+BANKEX,BSE_EQ,HDFC Bank Ltd.,HDFCBANK,0.3229
+BankNifty,NSE_EQ,HDFC Bank Ltd.,HDFCBANK,0.2811
+FINNIFTY,NSE_EQ,HDFC Life Insurance Company Ltd,HDFCLIFE,0.0482
+Nifty50,NSE_EQ,HDFC Life Insurance Company Ltd,HDFCLIFE,0.0058
+Nifty50,NSE_EQ,Hero MotoCorp Ltd,HEROMOTOCO,0.005
+Nifty50,NSE_EQ,Hindalco Industries Ltd,HINDALCO,0.0085
+Nifty Midcap Select,NSE_EQ,Hindustan Petroleum Corporation Ltd.,HINDPETRO,0.0427
+Nifty50,NSE_EQ,Hindustan Unilever Ltd,HINDUNILVR,0.0202
+SENSEX,BSE_EQ,Hindustan Unilever Ltd,HINDUNILVR,0.0235
+FINNIFTY,NSE_EQ,ICICI Bank Ltd.,ICICIBANK,0.1326
+SENSEX,BSE_EQ,ICICI Bank Ltd.,ICICIBANK,0.0982
+Nifty50,NSE_EQ,ICICI Bank Ltd.,ICICIBANK,0.0828
+BANKEX,BSE_EQ,ICICI Bank Ltd.,ICICIBANK,0.2227
+BankNifty,NSE_EQ,ICICI Bank Ltd.,ICICIBANK,0.2498
+FINNIFTY,NSE_EQ,ICICI Lombard General Insurance,ICICIGI,0.0256
+FINNIFTY,NSE_EQ,ICICI Prudential Life Insurance,ICICIPRULI,0.0258
+BankNifty,NSE_EQ,IDFC First Bank Ltd.,IDFCFIRSTB,0.0278
+Nifty Midcap Select,NSE_EQ,IDFC First Bank Ltd.,IDFCFIRSTB,0.0377
+FINNIFTY,NSE_EQ,Indian Energy Exchange,IEX,0.0146
+Nifty Midcap Select,NSE_EQ,Indian Hotels Co. Ltd.,INDHOTEL,0.0603
+SENSEX,BSE_EQ,IndusInd Bank Ltd.,INDUSINDBK,0.0072
+Nifty50,NSE_EQ,IndusInd Bank Ltd.,INDUSINDBK,0.0059
+BANKEX,BSE_EQ,IndusInd Bank Ltd.,INDUSINDBK,0.0193
+BankNifty,NSE_EQ,IndusInd Bank Ltd.,INDUSINDBK,0.0451
+SENSEX,BSE_EQ,Infosys Ltd,INFY,0.0769
+Nifty50,NSE_EQ,Infosys Ltd,INFY,0.0615
+SENSEX,BSE_EQ,ITC Ltd,ITC,0.0492
+Nifty50,NSE_EQ,ITC Ltd,ITC,0.0381
+Nifty50,NSE_EQ,JSW Steel Ltd,JSWSTEEL,0.0078
+SENSEX,BSE_EQ,JSW Steel Ltd,JSWSTEEL,0.0096
+Nifty Midcap Select,NSE_EQ,Jubilant Foodworks Ltd.,JUBLFOOD,0.0236
+FINNIFTY,NSE_EQ,Kotak Mahindra Bank Ltd.,KOTAKBANK,0.0597
+SENSEX,BSE_EQ,Kotak Mahindra Bank Ltd.,KOTAKBANK,0.0296
+Nifty50,NSE_EQ,Kotak Mahindra Bank Ltd.,KOTAKBANK,0.0264
+BANKEX,BSE_EQ,Kotak Mahindra Bank Ltd.,KOTAKBANK,0.0976
+BankNifty,NSE_EQ,Kotak Mahindra Bank Ltd.,KOTAKBANK,0.088
+SENSEX,BSE_EQ,Larsen and Toubro Ltd,LT,0.0469
+Nifty50,NSE_EQ,Larsen and Toubro Ltd,LT,0.0402
+FINNIFTY,NSE_EQ,LIC Housing Finance,LICHSGFIN,0.0183
+Nifty Midcap Select,NSE_EQ,Lupin Ltd.,LUPIN,0.0476
+SENSEX,BSE_EQ,Mahindra and Mahindra Ltd,M&M,0.0308
+Nifty50,NSE_EQ,Mahindra and Mahindra Ltd,M&M,0.0259
+SENSEX,BSE_EQ,Maruti Suzuki India Ltd,MARUTI,0.0173
+Nifty50,NSE_EQ,Maruti Suzuki India Ltd,MARUTI,0.0154
+Nifty Midcap Select,NSE_EQ,MphasiS Ltd.,MPHASIS,0.0237
+Nifty Midcap Select,NSE_EQ,MRF Ltd.,MRF,0.0318
+FINNIFTY,NSE_EQ,Muthoot Finance,MUTHOOTFIN,0.0198
+SENSEX,BSE_EQ,Nestle India Ltd,NESTLEIND,0.0087
+Nifty50,NSE_EQ,Nestle India Ltd,NESTLEIND,0.0077
+SENSEX,BSE_EQ,NTPC Ltd,NTPC,0.0177
+Nifty50,NSE_EQ,NTPC Ltd,NTPC,0.015
+Nifty50,NSE_EQ,Oil and Natural Gas Corporation Ltd,ONGC,0.0101
+Nifty Midcap Select,NSE_EQ,Page Industries Ltd.,PAGEIND,0.0275
+Nifty Midcap Select,NSE_EQ,Persistent Systems Ltd.,PERSISTENT,0.0439
+Nifty Midcap Select,NSE_EQ,PI Industries Ltd.,PIIND,0.0355
+Nifty Midcap Select,NSE_EQ,Polycab India Ltd.,POLYCAB,0.0391
+FINNIFTY,NSE_EQ,Power Finance Corporation,PFC,0.0196
+SENSEX,BSE_EQ,Power Grid Corporation of India Ltd,POWERGRID,0.0158
+Nifty50,NSE_EQ,Power Grid Corporation of India Ltd,POWERGRID,0.0135
+BankNifty,NSE_EQ,Punjab National Bank,PNB,0.0252
+FINNIFTY,NSE_EQ,REC,RECLTD,0.0195
+Nifty50,NSE_EQ,Reliance Industries Ltd,RELIANCE,0.0865
+SENSEX,BSE_EQ,Reliance Industries Ltd,RELIANCE,0.0929
+SENSEX,BSE_EQ,State Bank of India,SBIN,0.0334
+FINNIFTY,NSE_EQ,SBI Cards and Payment Services,SBICARD,0.0191
+FINNIFTY,NSE_EQ,SBI Life Insurance Company Ltd,SBILIFE,0.0321
+Nifty50,NSE_EQ,SBI Life Insurance Company Ltd,SBILIFE,0.0063
+Nifty50,NSE_EQ,Shriram Transport Finance,SHRIRAMFIN,0.0063
+FINNIFTY,NSE_EQ,Shriram Transport Finance,SRTRANSFIN,0.0199
+Nifty50,NSE_EQ,State Bank of India,SBIN,0.0282
+BankNifty,NSE_EQ,State Bank of India,SBIN,0.0845
+FINNIFTY,NSE_EQ,State Bank of India,SBIN,0.0811
+BANKEX,BSE_EQ,State Bank of India,SBIN,0.1778
+SENSEX,BSE_EQ,Sun Pharmaceutical Industries Ltd,SUNPHARMA,0.0219
+Nifty50,NSE_EQ,Sun Pharmaceutical Industries Ltd,SUNPHARMA,0.0184
+Nifty50,NSE_EQ,Tata Consultancy Services Ltd,TCS,0.0405
+Nifty50,NSE_EQ,Tata Consumer Products Ltd,TATACONSUM,0.0061
+Nifty50,NSE_EQ,Tata Motors Ltd,TATAMOTORS,0.0155
+SENSEX,BSE_EQ,Tata Steel Ltd,TATASTEEL,0.0125
+Nifty50,NSE_EQ,Tata Steel Ltd,TATASTEEL,0.0105
+SENSEX,BSE_EQ,Tata Motors Ltd,TATAMOTORS,0.0182
+SENSEX,BSE_EQ,Tata Consultancy Services Ltd,TCS,0.0456
+SENSEX,BSE_EQ,Tech Mahindra Ltd,TECHM,0.0118
+Nifty50,NSE_EQ,Tech Mahindra Ltd,TECHM,0.0103
+BANKEX,BSE_EQ,THE FEDERAL BANK LTD,FEDERALBNK,0.0122
+SENSEX,BSE_EQ,Titan Company Ltd,TITAN,0.0158
+Nifty50,NSE_EQ,Titan Company Ltd,TITAN,0.0121
+Nifty50,NSE_EQ,Trent Ltd,TRENT,0.012
+SENSEX,BSE_EQ,UltraTech Cement Ltd,ULTRACEMCO,0.0145
+Nifty50,NSE_EQ,UltraTech Cement Ltd,ULTRACEMCO,0.0117
+Nifty Midcap Select,NSE_EQ,UPL Ltd.,UPL,0.0319
+Nifty Midcap Select,NSE_EQ,Vodafone Idea Ltd.,IDEA,0.0392
+Nifty Midcap Select,NSE_EQ,Voltas Ltd.,VOLTAS,0.0387
+SENSEX,BSE_EQ,Wipro Ltd,WIPRO,0.0092
+Nifty50,NSE_EQ,Wipro Ltd,WIPRO,0.0083
+BANKEX,BSE_EQ,YES BANK LTD,YESBANK,0.0152

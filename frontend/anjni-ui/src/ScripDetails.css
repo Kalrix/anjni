@@ -1,0 +1,53 @@
+.scrip-details {
+    font-family: "Arial", sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #1a1a1a;
+    color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .expiry-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .expiry-container select {
+    background: #292929;
+    color: #ffffff;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  .status {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .status.live {
+    color: #00ff00;
+  }
+  
+  .status.offline {
+    color: #ffcc00;
+  }
+  
+  .option-chain-container {
+    margin-top: 20px;
+    padding: 10px;
+    background: #292929;
+    border-radius: 5px;
+    overflow: auto;
+    max-height: 300px;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #ffcc00;
+  }
+  

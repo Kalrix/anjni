@@ -1,0 +1,173 @@
+/* 🔥 Fullscreen Wrapper - No Scroll */
+.login-wrapper {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 🎨 Gradient Background Animation */
+.animated-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgb(96 24 96 / 70%), rgb(13 51 87 / 70%), rgb(37 94 66 / 70%));
+  background-size: 400% 400%;
+  animation: cyberGradient 6s infinite alternate ease-in-out;
+  opacity: 0.9;
+}
+
+@keyframes cyberGradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 🔥 ANJNI Logo - Centered with Glowing Effect */
+.logo-container {
+  position: absolute;
+  top: 8%;
+  text-align: center;
+}
+
+/* 🟣 ANJNI Text-Based Logo */
+.anjni-logo-home {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: white;
+  text-shadow: 0 0 15px rgba(255, 0, 153, 1);
+  position: relative;
+}
+
+/* 🎶 Heartbeat Glow (Pink) */
+.anjni-logo-home::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 120%;
+  height: 120%;
+  background: rgba(255, 0, 153, 0.3);
+  filter: blur(25px);
+  transform: translate(-50%, -50%) scale(1);
+  border-radius: 50%;
+  opacity: 0;
+  animation: heartbeat 2s infinite;
+}
+
+@keyframes heartbeat {
+  0% { transform: translate(-50%, -50%) scale(1); opacity: 0.3; }
+  50% { transform: translate(-50%, -50%) scale(1.2); opacity: 0.6; }
+  100% { transform: translate(-50%, -50%) scale(1); opacity: 0.3; }
+}
+
+/* 🔹 ANJNI Tagline */
+.anjni-tagline {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 16px;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+
+/* 🚀 Login Box */
+.login-container {
+  position: relative;
+  width: 400px;
+  padding: 5%;
+  border: 2px solid rgb(130 128 129 / 80%);
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(255, 0, 153, 0.7);
+  text-align: center;
+  color: #ffffff;
+  z-index: 2;
+}
+
+/* 🔥 Fix input field alignment & background */
+.futuristic-input {
+  width: 91%;
+  padding: 14px 16px;
+  margin: 12px 0;
+  /* background: rgba(20, 20, 20, 0.95); */
+  border: 1px solid rgb(255 255 255 / 80%);
+  border-radius: 5px;
+  color: #0d0d0d;
+  font-size: 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.futuristic-input::placeholder {
+  color: rgba(255, 0, 153, 0.6);
+  text-align: center;
+}
+
+.futuristic-input:focus {
+  outline: none;
+  border: 1px solid rgba(255, 0, 153, 1);
+  box-shadow: 0px 0px 15px rgba(255, 0, 153, 1);
+}
+
+/* 🚀 Cyberpunk Button */
+.futuristic-button {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(90deg, #ff0077, #cc0055);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.toggle-text {
+  margin-top: 25px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+}
+
+.futuristic-button:hover {
+  background: linear-gradient(90deg, #cc0055, #ff0077);
+  box-shadow: 0 0 20px rgba(255, 0, 153, 1);
+  transform: scale(1.05);
+}
+
+/* 🔹 Fix "First-time user?" alignment */
+.toggle-text {
+  margin-top: 15px;
+}
+
+.toggle-text a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.toggle-text a:hover {
+  text-decoration: underline;
+  color: rgba(255, 0, 153, 1);
+}
+
+/* 📜 Copyright */
+.footer {
+  position: absolute;
+  bottom: 5%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 12px;
+  color: lightgray;
+  text-align: center;
+}

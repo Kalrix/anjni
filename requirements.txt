@@ -1,0 +1,28 @@
+# FastAPI & Uvicorn for Backend API
+fastapi
+uvicorn
+
+# PostgreSQL Database Adapter
+psycopg2-binary
+
+# Redis Client
+redis
+
+# Pydantic for Data Validation
+pydantic
+
+# ORM for Database (Optional, if you plan to use SQLAlchemy)
+sqlalchemy
+alembic
+
+# CORS Middleware
+fastapi[all]
+
+passlib[bcrypt]
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+requests
+pandas
+apscheduler

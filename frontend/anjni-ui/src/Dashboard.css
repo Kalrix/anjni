@@ -1,0 +1,117 @@
+/* -------------------- General Page Styling -------------------- */
+.dashboard-container {
+  background-color: #000; /* Full black background */
+  color: #ff79c6; /* Pink text */
+  font-family: "Orbitron", sans-serif; /* Futuristic Terminal Font */
+  padding: 10px;
+  min-height: 100vh;
+}
+
+/* -------------------- Navigation Bar -------------------- */
+.navbar {
+  background-color: #111;
+  padding: 15px;
+  text-align: left;
+  border-bottom: 2px solid #ff79c6; /* Pink border bottom */
+}
+
+.anjni-logo {
+  color: #ff79c6;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 0 0 10px #ff79c6;
+}
+
+/* -------------------- Search & Tabs -------------------- */
+.top-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  width: 49%;
+}
+
+.search-bar {
+  flex: 1;
+  padding: 8px;
+  font-size: 14px;
+  background: black;
+  color: white;
+  border: 2px solid #ff79c6;
+  outline: none;
+  box-shadow: 0 0 10px #ff79c6;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tab {
+  background-color: black;
+  color: white;
+  border: 2px solid #ff79c6;
+  padding: 8px 15px;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.tab.active {
+  background-color: #ff79c6;
+  color: black;
+}
+
+/* -------------------- Table Styling -------------------- */
+.table-container {
+  overflow-y: auto;
+  height: 70vh;
+  border: 2px solid #ff79c6;
+  width: 49%;
+}
+
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.dashboard-table thead {
+  background-color: #111;
+}
+
+.dashboard-table th {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 2px solid #ff79c6;
+  color: #ff79c6;
+}
+
+.dashboard-table td {
+  padding: 8px;
+  border-bottom: 1px solid #ff79c6;
+  color: white;
+}
+
+/* Hover effect for rows */
+.dashboard-table tbody tr:hover {
+  background-color: #222;
+}
+
+/* -------------------- Watchlist Star -------------------- */
+.star {
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.star.active {
+  color: #ff79c6;
+}
+
+/* -------------------- Bottom Navigation -------------------- */
+.bottom-nav {
+  height: 50px;
+  background: #111;
+  margin-top: 10px;
+  border-top: 2px solid #ff79c6;
+}

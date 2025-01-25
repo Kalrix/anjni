@@ -1,0 +1,10 @@
+from passlib.context import CryptContext
+... 
+... # Initialize password hasher
+... pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+... 
+... # Hash a password
+... hashed_password = pwd_context.hash("pass here")
+... print(hashed_password)
+
+

@@ -1,0 +1,4 @@
+2025-01-25 12:49:52 - ERROR - Error inserting data: relation "options_data" does not exist
+LINE 2:     INSERT INTO options_data (
+                        ^
+
